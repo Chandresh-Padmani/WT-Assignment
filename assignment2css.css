@@ -1,0 +1,28 @@
+body{
+    background-color: #DDA0DD;
+}
+.heading,.footer{
+    background-color: #4B0082;
+    height: 100px;
+    font-size: x-large;
+}
+#leftimage{
+    background-attachment: fixed;
+    background-color: #DDA0DD;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 400px;
+    width: 400px;
+}
+table{
+    text-align: center;
+}
+.inner-table tr,.inner-table td{
+    border: 1px solid black;  
+    padding: 10px 10px;  
+}
+.inner-table{
+    width: 100%;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
